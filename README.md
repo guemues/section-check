@@ -9,6 +9,7 @@ Python version: 3.4 . Fell free to contribute or fork.
 pip3.4 install pyglet
 ```
 2)Move a wav file named *siren.wav* to same directory with python file.
+
 3)Run main.py
 ```
 python3.4 main.py
