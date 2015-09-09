@@ -3,12 +3,16 @@ This project is non-profit application in order to help Bilkent University stude
 Python version: 3.4 . Fell free to contribute or fork.
 
 ###Installiation
-You should have pyglet package to hear the sound.
+1)You should have pyglet package to hear the sound.
 
 ```
 pip3.4 install pyglet
 ```
-Move a wav file named *siren.wav* to same directory with python file.
+2)Move a wav file named *siren.wav* to same directory with python file.
+3)Run main.py
+```
+python3.4 main.py
+```
 
 ###Usage
 Enter your course depertment and sections and just wait for a siren. You can add more than one spider. But using one spider for only one depertment is recommended. 
