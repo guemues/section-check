@@ -8,7 +8,7 @@ You should have pyglet package to hear the sound.
 ```
 pip3.4 install pyglet
 ```
-Move a wav file named 'siren.wav' to same directory with python file.
+Move a wav file named *siren.wav* to same directory with python file.
 
 ###Usage
 Enter your course depertment and sections and just wait for a siren. You can add more than one spider. But using one spider for only one depertment is recommended. 
