@@ -2,8 +2,15 @@
 This project is non-profit application in order to help Bilkent University students during course registration.
 Python version: 3.4 . Fell free to contribute or fork.
 
-Usage
-----
+###Installiation
+You should have pyglet package to hear the sound.
+
+```
+pip3.4 install pyglet
+```
+Move a wav file named 'siren.wav' to same directory with python file.
+
+###Usage
 Enter your course depertment and sections and just wait for a siren. You can add more than one spider. But using one spider for only one depertment is recommended. 
 ```
 1 for add new course
@@ -22,11 +29,6 @@ Example Inputs:
 ```
 
 
-You should have pyglet package to hear the sound.
-
-`
-pip3.4 install pyglet
-`
 
 
 Author
