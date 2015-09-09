@@ -1,6 +1,10 @@
 # Section Check for Bilkent University
 This project is non-profit application in order to help Bilkent University students during course registration.
-Python version: 3.4 . Fell free to contribute or fork.
+
+
+**Python version: 3.4** . 
+
+**Fell free to contribute or fork.**
 
 ###Installiation
 1)You should have pyglet package to hear the sound.
@@ -37,7 +41,7 @@ Example Inputs:
 
 
 ###Warning
-Do not decrease sleep time more. It can cause problems on Bilkent University servers.
+Do not decrease sleep time. It can cause problems on Bilkent University servers.
 
 Feel free to contact with me for any problems: orcun.gumus@teradata.com
 
