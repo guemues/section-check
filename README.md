@@ -31,6 +31,9 @@ Example Inputs:
 
 
 
-Author
-----
-Orçun Gümüş
+###Warning
+Do not decrease sleep time more. It can cause problems on Bilkent University servers.
+
+Feel free to contact with me for any problems: orcun.gumus@teradata.com
+
+
