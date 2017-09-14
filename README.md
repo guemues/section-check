@@ -1,3 +1,5 @@
+__This rep is not supported anymore. If you overcome the capcha security please inform me__ 
+
 # Section Check for Bilkent University
 This project is non-profit application in order to help Bilkent University students during course registration.
 
@@ -6,7 +8,7 @@ This project is non-profit application in order to help Bilkent University stude
 
 **Fell free to contribute or fork.**
 
-###Installiation
+### Installiation
 1)You should have pyglet package to hear the sound.
 
 ```
@@ -19,7 +21,7 @@ pip3.4 install pyglet
 python3.4 main.py
 ```
 
-###Usage
+### Usage
 Enter your course depertment and sections and just wait for a siren. You can add more than one spider. But using one spider for only one depertment is recommended. 
 ```
 1 for add new course
@@ -40,9 +42,9 @@ Example Inputs:
 
 
 
-###Warning
+### Warning
 Do not decrease sleep time. It can cause problems on Bilkent University servers.
 
-Feel free to contact with me for any problems: orcun.gumus@teradata.com
+Feel free to contact with me for any problems: orcun.gumus@epfl.ch
 
 
